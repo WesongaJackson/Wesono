@@ -366,7 +366,7 @@ footer p {
 }
 @media screen and (max-width: 768px) {
   #about {
-    min-height: 170vh;
+    min-height: 150vh;
     color: #000;
   }
   .about {
@@ -465,7 +465,7 @@ footer p {
 }
 @media screen and (max-width: 768px) {
   #services {
-    height: 180vh;
+    height: 150vh;
   }
   .service-container {
     display: block;
@@ -718,7 +718,7 @@ label.active {
     padding: 20px 50px;
   }
   #contacts {
-    height: 200vh;
+    height: 150vh;
   }
   #contact-form {
     width: 100%;
